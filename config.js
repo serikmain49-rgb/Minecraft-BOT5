@@ -6,7 +6,7 @@ module.exports = {
   server: {
     host: 'SMP-FRUTLINE.aternos.me', // IP или адрес сервера
     port: 29506, // Порт сервера
-    username: 'AFK_Bot', // Имя аккаунта бота (измени на своё)
+    username: 'AFKBOTFRUTLINE', // Имя аккаунта бота (измени на своё)
     version: '1.20' // Версия Minecraft
   },
 
